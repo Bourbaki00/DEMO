@@ -11,7 +11,11 @@ class function:
   ## check if both the numbers are a function(optional) and return self+other.
   def __add__(self,other):
     # write your code here and modify the return statement
-    return 
+     output=a+b
+    return output
+print(add(10,20))
+ 
+  
 
   ## check if both the numbers are a function(optional) and return self*other.
   def __mul__(self,other):
